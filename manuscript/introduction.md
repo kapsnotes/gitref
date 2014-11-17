@@ -16,7 +16,7 @@ There are three types of SCM:
 * Centralized Version Control System.
 * Distributed Version Control System.
 
-## History of Version control system
+## Type of Version control system
 
 {width="narrow"}
 | Generation | Networking | Operations | Concurrency | Examples |
@@ -26,3 +26,7 @@ There are three types of SCM:
 | Second     | Centralized | Multi-file | Merge before commit | CVS, SourceSafe, Subversion, Team Foundation Server |
 |---------------------------------------------------------------|
 | Third   | Distributed | Changesets | commit before merge | Bazaar, Git, Mercurial |
+
+## History of Git
+
+We all know Linux Kernel. It is the base that power all linux systems. 
